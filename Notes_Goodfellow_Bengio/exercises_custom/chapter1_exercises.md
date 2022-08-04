@@ -1,11 +1,20 @@
 Exercise 1. What, in your own words, is “artificial intelligence”?
-<details> answer here <\details>
+<details>
+  answer here
+  <\details>
+  
 Exercise 2. What, in your own words, is “machine learning”?
+    
 <details> answer here <\details>
+  
 Exercise 3. Describe an autoencoder? (Recall the two “pieces”)
+  
 <details> answer here <\details>
+  
 Exercise 4. Give a real-world example of some “factors of variations”
+  
 <details> answer here <\details>
+  
 Exercise 5. How does deep learning solve the central problem in representative learning?
 Exercise 6. Describe what a MLP ( ) is
 Exercise 7. Describe the difference between computational graphs and probabilistic modeling graphs. For instance, what is the difference in the meaning of “depth”?
