@@ -1,7 +1,7 @@
 Exercise 1. What, in your own words, is “artificial intelligence”?
 <details>
   answer here
-<\details>
+</details>
   
 Exercise 2. What, in your own words, is “machine learning”?
     
